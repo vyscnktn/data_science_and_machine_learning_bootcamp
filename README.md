@@ -1,2 +1,2 @@
-# data_science_and_machine_learning_bootcamp
+# Data Science and Machine Learning Bootcamp
 Miuul ve VBO Bootcamp Ödev Çözümleri

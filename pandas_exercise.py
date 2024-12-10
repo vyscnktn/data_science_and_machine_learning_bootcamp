@@ -220,6 +220,7 @@ df2.groupby(["sex","total_bill_flag"]).agg({"total_bill_flag":"count"})
 
 
 
+
 # görev 25
 
 

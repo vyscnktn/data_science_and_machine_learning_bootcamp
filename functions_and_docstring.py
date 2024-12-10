@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
+
 df = sns.load_dataset("titanic")
 
 # Görev:  cat_summary() fonksiyonuna1 özellik ekleyiniz.

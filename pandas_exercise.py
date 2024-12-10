@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
+
 # Görev 1:  Seaborn kütüphanesi içerisinden Titanic veri setini tanımlayınız.
 
 df = sns.load_dataset("titanic")

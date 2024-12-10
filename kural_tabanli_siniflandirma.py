@@ -3,7 +3,6 @@ import numpy as np
 import seaborn as sns
 
 
-
 # Soru 1: persona.csvdosyasını okutunuz ve veri seti ile ilgili genel bilgileri gösteriniz
 df = pd.read_csv("Python/python_for_data_science/Kural_Tabanli_Siniflandirma/Kural_Tabanli_Siniflandirma/persona.csv")
 

@@ -2,7 +2,6 @@
 
 # Adım1:   flo_data_20K.csv verisiniokuyunuz.Dataframe’inkopyasınıoluşturunuz.
 
-
 import pandas as pd
 import numpy as np
 import datetime as dt

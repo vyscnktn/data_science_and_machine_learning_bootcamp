@@ -3,6 +3,7 @@ import seaborn as sns
 # Görev 1:  Verilen değerlerin veri yapılarını inceleyiniz.
 
 
+
 x = 8
 y = 3.2
 z = 8j + 18

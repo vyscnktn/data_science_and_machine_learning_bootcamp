@@ -1,5 +1,6 @@
 # Görev 1:  Veriyi Hazırlama
 
+
 # Adım1:   flo_data_20K.csv verisiniokuyunuz.
 
 
